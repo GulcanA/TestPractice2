@@ -12,5 +12,5 @@ Feature: US1002 User add data
     Examples:
       | first_name | last_name | position | office   | start_date | salary |
       | Ali        | Kaya      | manager  | Istanbul | 05.02.2020 | 5000   |
-      | Gulcan     | Doruk     | tester   | Berlin   | 10.09.2023 | 5000   |
+      | Gulcan     | Doruk     | tester   | Berlin   | 10.09.2023 | 8000   |
 
