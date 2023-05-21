@@ -1,6 +1,6 @@
 Feature: US1002 User add data
 
-   @dataTable @smoke
+   @dataTable
   Scenario Outline: User should be able to add data into the data table
     Given User navigates to the Editor Page
     Then User clicks New Button
