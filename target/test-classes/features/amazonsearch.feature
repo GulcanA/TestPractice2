@@ -4,7 +4,7 @@ Feature: US1001  Amazon Search Feature
   Scenario Outline: TC01 User should be able to search successfully
     Given User navigates to the url
     And User enters "<item>" into the searchbox
-    Then User gets the results including "<item>"
+    Then User gets the results including "<itemu>"
     Examples:
       |item |
       | book   |
